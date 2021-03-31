@@ -4,6 +4,6 @@ void main()
 {
 	printf("Hello, World");
 
-	printf("Hello, ....");
+	printf("\n Hello, ....");
 	fgetc(stdin);
 }
